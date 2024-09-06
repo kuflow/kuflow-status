@@ -10,6 +10,8 @@ sites:
     url: https://api.kuflow.com
     icon: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/api-rest-icon.svg
     method: POST
+    headers:
+      - "Authorization: Basic dummy"
     expectedStatusCodes:
       - 401
   - name: Engine API
@@ -25,7 +27,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kuflow.com
-  baseUrl: /kuflow-status
+  # baseUrl: /kuflow-status
   logoUrl: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/kuflow-icon.svg
   name: KuFlow
   introTitle: "**KuFlow services status**"
