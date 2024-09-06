@@ -6,6 +6,14 @@ sites:
   - name: App
     url: https://app.kuflow.com
     icon: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/favicon.ico
+  - name: Rest API
+    url: https://api.kuflow.com
+    icon: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/api-rest-icon.svg
+    method: POST
+    headers:
+      - "Authorization: Basic dummy"
+    expectedStatusCodes:
+      - 401
   - name: Engine API
     check: "tcp-ping"
     url: engine.kuflow.com
