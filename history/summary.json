@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 510,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Rest API",
-    "url": "https://api.kuflow.com",
-    "icon": "https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/api-rest-icon.svg",
-    "slug": "rest-api",
-    "status": "up",
-    "uptime": "60.80%",
-    "uptimeDay": "60.80%",
-    "uptimeWeek": "60.80%",
-    "uptimeMonth": "60.80%",
-    "uptimeYear": "60.80%",
-    "time": 403,
-    "timeDay": 403,
-    "timeWeek": 403,
-    "timeMonth": 403,
-    "timeYear": 403,
-    "dailyMinutesDown": {
-      "2024-09-06": 22
-    }
   },
   {
     "name": "Engine API",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 104,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "time": 106,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
