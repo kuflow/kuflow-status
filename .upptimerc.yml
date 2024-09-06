@@ -11,7 +11,7 @@ sites:
     icon: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/api-rest-icon.svg
     method: POST
     headers:
-      - "xAuthorization: Basic dummy"
+      - "Authorization: Basic dummy"
     expectedStatusCodes:
       - 401
   - name: Engine API
