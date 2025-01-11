@@ -6,14 +6,14 @@
     "slug": "app",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
     "time": 576,
-    "timeDay": 469,
-    "timeWeek": 492,
-    "timeMonth": 545,
+    "timeDay": 655,
+    "timeWeek": 513,
+    "timeMonth": 549,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-01-09": 64
@@ -26,15 +26,15 @@
     "slug": "rest-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
-    "time": 444,
-    "timeDay": 421,
-    "timeWeek": 406,
-    "timeMonth": 442,
-    "timeYear": 444,
+    "time": 445,
+    "timeDay": 569,
+    "timeWeek": 433,
+    "timeMonth": 447,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-01-09": 64
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 86,
-    "timeWeek": 97,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 109,
+    "timeDay": 139,
+    "timeWeek": 105,
+    "timeMonth": 110,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   }
 ]
