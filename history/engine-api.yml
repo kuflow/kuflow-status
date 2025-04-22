@@ -1,7 +1,7 @@
 url: engine.kuflow.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-22T19:56:36.453Z
+status: up
+code: 200
+responseTime: 139
+lastUpdated: 2025-04-22T20:00:09.791Z
 startTime: 2024-09-06T11:25:24.434Z
 generator: Upptime <https://github.com/upptime/upptime>
