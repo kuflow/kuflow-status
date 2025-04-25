@@ -20,6 +20,8 @@ sites:
     icon: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/api-engine-icon.svg
     port: 443
 
+delay: 1000 # 1 seconds
+
 assignees:
   - kuflow-devops
 
@@ -43,5 +45,7 @@ status-website:
   favicon: https://kuflow.github.io/kuflow-status/favicon.ico
   faviconSvg: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/kuflow-icon.svg
 
+workflowSchedule:
+  uptime: "*/10 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
