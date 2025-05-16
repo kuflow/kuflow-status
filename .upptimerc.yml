@@ -50,7 +50,5 @@ status-website:
   favicon: https://kuflow.github.io/kuflow-status/favicon.ico
   faviconSvg: https://raw.githubusercontent.com/kuflow/kuflow-status/master/assets/kuflow-icon.svg
 
-workflowSchedule:
-  uptime: "*/10 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
