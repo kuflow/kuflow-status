@@ -1,7 +1,7 @@
 url: https://api.kuflow.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-18T18:50:40.683Z
+status: up
+code: 401
+responseTime: 481
+lastUpdated: 2025-05-18T19:07:00.213Z
 startTime: 2024-09-06T19:00:38.532Z
 generator: Upptime <https://github.com/upptime/upptime>
