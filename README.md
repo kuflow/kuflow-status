@@ -24,6 +24,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://kuflow.github.io/kuflow-status)
 
+## 🔧 Maintenance
+
+- [Rotating the GitHub Personal Access Token](./docs/rotating-the-github-pat.md)
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
